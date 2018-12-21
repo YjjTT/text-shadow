@@ -1,0 +1,18 @@
+.yjjtt-show{
+  padding: 20px;
+  background: #f0f3f9;
+  color: #aaaaaa;
+  font-size: 14px;
+}
+.yjjtt-text{
+  position: absolute;
+  margin: -1px 0 0 -1px;
+  color: #333333;
+}
+
+p{
+  text-shadow: #333333 1px 1px;
+  background: #f0f3f9;
+  color: #aaaaaa;
+  font-size: 14px;
+}
